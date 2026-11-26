@@ -11,4 +11,4 @@ sysadmin-automation-scripts/
 │   ├── system-health-check.sh
 │   └── log-backup.sh          # Planned
 └── python/
-    └── system-log-parser.py   # Planned
+    └── system-log-parser.py   
